@@ -3,7 +3,7 @@ Created on 24.02.2014
 
 @author: stefan
 '''
-
+#Kommentar aus Testzwecken
 
 def calculateChange (priceInEuro, amountInEuro):
         
