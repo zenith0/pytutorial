@@ -1,5 +1,7 @@
 # BruteForce Caesar Cypher
 
+#TEST
+
 CONST_LETTERS=" ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
 def bruteForce(text):
